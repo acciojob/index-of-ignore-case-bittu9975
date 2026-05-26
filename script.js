@@ -1,4 +1,4 @@
-function indexOfIgnoreCase(mainStr, searchStr) {
+function indexOfIgnoreCase(str, subStr) {
   // write your code here
 	
 	
